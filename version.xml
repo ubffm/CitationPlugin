@@ -2,7 +2,7 @@
 <!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
 
 <!--
-  * plugins/generic/addCtECitationStyle/version.xml
+  * plugins/generic/CitationStyle/version.xml
   -->
 
 <version>
@@ -12,5 +12,5 @@
     <date>2018-02-15</date>
     <lazy-load>1</lazy-load>
     <sitewide>1</sitewide>
-    <class>AddCtECitationStyle</class>
+    <class>AddCitationStylesPlugin</class>
 </version>

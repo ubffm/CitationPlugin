@@ -1,9 +1,9 @@
 <?php
 /**
- * @file plugins/addCtECitationStyle/index.php
+ * @file plugins/CitationStyles/index.php
  *
- * @ingroup plugins_addCteCitationStyle
+ * @ingroup plugins_addCitationStylesPlugin
  */
-require_once('AddCtECitationStyle.inc.php');
-return new AddCtECitationStyle();
+require_once('AddCitationStylesPlugin.inc.php');
+return new AddCitationStylesPlugin();
 ?>
