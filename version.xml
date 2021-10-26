@@ -6,11 +6,11 @@
   -->
 
 <version>
-    <application>CitationPlugin</application>
+    <application>UBFFMCitationExtensions</application>
     <type>plugins.generic</type>
     <release>1.0.0.0</release>
     <date>2018-02-15</date>
     <lazy-load>1</lazy-load>
     <sitewide>1</sitewide>
-    <class>AddCitationStylesPlugin</class>
+    <class>UBFFMCitationExtensionsPlugin</class>
 </version>

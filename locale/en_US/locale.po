@@ -13,8 +13,8 @@ msgstr ""
 "X-Generator: Poedit 3.0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "plugins.generic.CitationPlugin.displayName"
-msgstr "UBFFM Custom Citation Styles"
+msgid "plugins.generic.UBFFMCitationExtensions.displayName"
+msgstr "UBFFM Custom Citation Styles and features"
 
-msgid "plugins.generic.CitationPlugin.description"
-msgstr "Adds citation styles required by journals hosted at the Frankfurt University Library (UBFFM)."
+msgid "plugins.generic.UBFFMCitationExtensions.description"
+msgstr "Adds citation styles and features required by journals hosted at the Frankfurt University Library (UBFFM)."

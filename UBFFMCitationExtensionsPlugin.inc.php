@@ -2,7 +2,7 @@
 
 import('lib.pkp.classes.plugins.GenericPlugin');
 
-class AddCitationStylesPlugin extends GenericPlugin {
+class UBFFMCitationExtensionsPlugin extends GenericPlugin {
 	/**
 	 * @copydoc Plugin::register()
 	 */
@@ -36,14 +36,14 @@ class AddCitationStylesPlugin extends GenericPlugin {
 	 * @copydoc Plugin::getDisplayName()
 	 */
 	function getDisplayName() {
-		return __('plugins.generic.CitationPlugin.displayName');
+		return __('plugins.generic.UBFFMCitationExtensions.displayName');
 	}
 
 	/**
 	 * @copydoc Plugin::getDescription()
 	 */
 	function getDescription() {
-		return __('plugins.generic.CitationPlugin.description');
+		return __('plugins.generic.UBFFMCitationExtensions.description');
 	}
 }
 

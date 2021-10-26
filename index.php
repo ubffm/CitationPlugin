@@ -4,6 +4,6 @@
  *
  * @ingroup plugins_addCitationStylesPlugin
  */
-require_once('AddCitationStylesPlugin.inc.php');
-return new AddCitationStylesPlugin();
+require_once('UBFFMCitationExtensionsPlugin.inc.php');
+return new UBFFMCitationExtensionsPlugin();
 ?>

@@ -13,8 +13,8 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
-msgid "plugins.generic.CitationPlugin.displayName"
-msgstr "UBFFM Benutzer-definierte Zitierstile"
+msgid "plugins.generic.UBFFMCitationExtensions.displayName"
+msgstr "UBFFM Benutzer-definierte Zitierstile und zusätzliche Optionen"
 
-msgid "plugins.generic.CitationPlugin.description"
-msgstr "Fügt Zitierstile hinzu, die von Zeitschriften benötigt werden, die an der UB Frankfurt (UBFFM) betrieben werden."
+msgid "plugins.generic.UBFFMCitationExtensions.description"
+msgstr "Fügt Zitierstile sowie weitere Features hinzu, die von Zeitschriften benötigt werden, die an der UB Frankfurt (UBFFM) betrieben werden."
