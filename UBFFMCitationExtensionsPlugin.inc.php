@@ -24,11 +24,17 @@ class UBFFMCitationExtensionsPlugin extends GenericPlugin {
 	public function addCSLStyle($hookName, $args) {
 		$defaults =& $args[0];
         $path = Core::getBaseDir() . '/' . $this->getPluginPath() . "/citation-styles";
-		$defaults[] = array(
-			'id' => 'cte-citation-style',
+        $defaults[] = array(
+            'id' => __('pluins.generic.UBFFMCitationExtensions.style.cte-citation-style'),
 			'title' => 'Contributions to Entomolgy Citation Style',
 			'isEnabled' => true,
-			'useCsl' => $path . '/cte-style.csl',
+            'useCsl' => $path . '/cte-style.csl'
+        );
+        $defaults[] = array(
+	        'id' => __('pluins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics'),
+			'title' => 'Generic Style Rules for Linguistics',
+			'isEnabled' => true,
+            'useCsl' => $path . '/generic-style-rules-for-linguistics.csl',
 		);
 	}
 

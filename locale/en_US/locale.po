@@ -18,3 +18,10 @@ msgstr "UBFFM Custom Citation Styles and features"
 
 msgid "plugins.generic.UBFFMCitationExtensions.description"
 msgstr "Adds citation styles and features required by journals hosted at the Frankfurt University Library (UBFFM)."
+
+msgid "pluins.generic.UBFFMCitationExtensions.style.cte-citation-style"
+msgstr "Contributions to Entomology Style Sheet"
+
+msgid "pluins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics"
+msgstr "Generic Style Rules for Linguistics"
+
