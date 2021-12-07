@@ -19,8 +19,8 @@ msgstr "UBFFM Benutzer-definierte Zitierstile und zusätzliche Optionen"
 msgid "plugins.generic.UBFFMCitationExtensions.description"
 msgstr "Fügt Zitierstile sowie weitere Features hinzu, die von Zeitschriften benötigt werden, die an der UB Frankfurt (UBFFM) betrieben werden."
 
-msgid "pluins.generic.UBFFMCitationExtensions.style.cte-citation-style"
+msgid "plugins.generic.UBFFMCitationExtensions.style.cte-citation-style"
 msgstr "Contributions to Entomology Style Sheet"
 
-msgid "pluins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics"
+msgid "plugins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics"
 msgstr "Generic Style Rules for Linguistics"
