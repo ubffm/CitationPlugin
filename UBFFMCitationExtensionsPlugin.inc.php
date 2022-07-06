@@ -27,14 +27,20 @@ class UBFFMCitationExtensionsPlugin extends GenericPlugin {
         $defaults[] = array(
             'id' => __('plugins.generic.UBFFMCitationExtensions.style.cte-citation-style'),
             'title' => 'Contributions to Entomolgy Citation Style',
-            'isEnabled' => true,
+            'isEnabled' => false,
             'useCsl' => $path . '/cte-style.csl'
         );
         $defaults[] = array(
             'id' => __('plugins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics'),
             'title' => 'Generic Style Rules for Linguistics',
-            'isEnabled' => true,
+            'isEnabled' => false,
             'useCsl' => $path . '/generic-style-rules-for-linguistics.csl',
+        );
+        $defaults[] = array(
+            'id' => __('plugins.generic.UBFFMCitationExtensions.style.kochia'),
+            'title' => 'Kochia',
+            'isEnabled' => true,
+            'useCsl' => $path . '/kochia.csl',
         );
     }
 
