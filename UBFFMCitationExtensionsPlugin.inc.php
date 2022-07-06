@@ -27,13 +27,13 @@ class UBFFMCitationExtensionsPlugin extends GenericPlugin {
         $defaults[] = array(
             'id' => __('plugins.generic.UBFFMCitationExtensions.style.cte-citation-style'),
             'title' => 'Contributions to Entomolgy Citation Style',
-            'isEnabled' => false,
+            'isEnabled' => true,
             'useCsl' => $path . '/cte-style.csl'
         );
         $defaults[] = array(
             'id' => __('plugins.generic.UBFFMCitationExtensions.style.generic-style-rules-linguistics'),
             'title' => 'Generic Style Rules for Linguistics',
-            'isEnabled' => false,
+            'isEnabled' => true,
             'useCsl' => $path . '/generic-style-rules-for-linguistics.csl',
         );
         $defaults[] = array(
